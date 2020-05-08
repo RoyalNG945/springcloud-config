@@ -1,2 +1,2 @@
-server: 
-  port: 65534
+config: 
+  info: "spring cloud config ,version1"
